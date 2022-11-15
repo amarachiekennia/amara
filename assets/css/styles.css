@@ -3,6 +3,9 @@ body{
     padding: 0;
     height: 100%;
 }
+.white {
+    color: #fff;
+}
 
 .house{
     background-color: #000;
